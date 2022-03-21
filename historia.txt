@@ -1,5 +1,7 @@
 Esta es la historia de mi vida:
 
-Me llamp Sergio Rodriguez nací en Colombia.
+Me llamo Sergio Rodriguez nací en Colombia.
+
+Hoy hablaremos de la historia de su vida.
 
 Soy ingeniero de sistemas.
